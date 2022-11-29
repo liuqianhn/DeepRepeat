@@ -16,7 +16,7 @@ Please refer to `environment.yml` for detail. For your quick reference, DeepRepe
   - tensorflow=1.9
   - samtools
   - minimap2
-  - gxx_linux-64
+  - gxx_linux-64=7.5
 ```
 
 # Installation
